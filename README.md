@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cfrovramin
 - 👀 I’m interested in ... Java
 - 🌱 I’m currently learning ...Java
-- 💞️ I’m looking to collaborate on ...Java
+- 💞️ I’m looking to collaborate on ..."Bank və Təcrübəçi"
 - 📫 How to reach me ...ceferovramin2022@gmail.com
 
 <!---
